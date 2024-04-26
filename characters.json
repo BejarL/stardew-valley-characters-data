@@ -1,0 +1,286 @@
+{
+  "Bachelors": [
+    {
+      "id": 1,
+      "name": "Alex",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/0/04/Alex.png",
+      "description": "Alex loves sports and aspires to be a professional athlete. He is brash and arrogant at times, but develops a softer side with friendship."
+    },
+    {
+      "id": 2,
+      "name": "Elliott",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/b/bd/Elliott.png",
+      "description": "Elliott lives alone in a cabin on the beach. He is a writer and dreams of authoring a great novel one day."
+    },
+    {
+      "id": 3,
+      "name": "Harvey",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/9/95/Harvey.png",
+      "description": "Harvey runs the town's medical clinic and is passionate about the health of the townsfolk."
+    },
+    {
+      "id": 4,
+      "name": "Sam",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/9/94/Sam.png",
+      "description": "Sam lives in the southern part of town. Sam is an outgoing and energetic young man with a passion for music."
+    },
+    {
+      "id": 5,
+      "name": "Sebastian",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/a/a8/Sebastian.png",
+      "description": "Sebastian lives in the basement of his mother Robin's carpenter shop, north of town."
+    },
+    {
+      "id": 6,
+      "name": "Shane",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/8/8b/Shane.png",
+      "description": "Shane is often rude and unhappy, is a heavy drinker, and suffers from depression."
+    }
+  ],
+  "Bachelorettes": [
+    {
+      "id": 1,
+      "name": "Abigail",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/8/88/Abigail.png",
+      "description": "Abigail lives at the general store with her parents. She sometimes fights with her mom, who worries about Abigail's 'alternative lifestyle'."
+    },
+    {
+      "id": 2,
+      "name": "Emily",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/2/28/Emily.png",
+      "description": "Emily loves to make her own clothing, but fabric can be difficult to come by in town."
+    },
+    {
+      "id": 3,
+      "name": "Haley",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/1/1b/Haley.png",
+      "description": "Being wealthy and popular throughout high school has made Haley a little conceited and self-centered."
+    },
+    {
+      "id": 4,
+      "name": "Leah",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/e/e6/Leah.png",
+      "description": "Leah is an artist who loves nature and lives in a small cottage outside town. She loves to spend time outside, foraging for a wild meal or simply enjoying the gifts of the season."
+    },
+    {
+      "id": 5,
+      "name": "Maru",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/f/f8/Maru.png",
+      "description": "Growing up with a carpenter and a scientist for parents, Maru acquired a passion for creating gadgets at a young age."
+    },
+    {
+      "id": 6,
+      "name": "Penny",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/a/ab/Penny.png",
+      "description": "Penny is shy and modest, without any grand ambitions for life other than settling in and starting a family."
+    }
+  ],
+  "Non-MarriageCandidates": [
+    {
+      "id": 1,
+      "name": "Caroline",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/8/87/Caroline.png",
+      "description": "Caroline is married to Pierre and they live with their daughter Abigail in Pierre's General Store."
+    },
+    {
+      "id": 2,
+      "name": "Clint",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/3/31/Clint.png",
+      "description": "Clint often visits the saloon in order to socialize with Emily, who he has a crush on but is nervous to approach."
+    },
+    {
+      "id": 3,
+      "name": "Demetrius",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/f/f9/Demetrius.png",
+      "description": "Demetrius is a scientist who studies the valley's local wildlife. He can often be found working in his laboratory or outdoors taking notes."
+    },
+    {
+      "id": 4,
+      "name": "Dwarf",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/e/ed/Dwarf.png",
+      "description": "The Dwarf will start out speaking Dwarvish, which is unreadable by the player."
+    },
+    {
+      "id": 5,
+      "name": "Evelyn",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/8/8e/Evelyn.png",
+      "description": "Evelyn is married to George, and lives with her grandson Alex. Alex's deceased mother Clara was Evelyn's daughter."
+    },
+    {
+      "id": 6,
+      "name": "George",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/7/78/George.png",
+      "description": "George is married to Evelyn and lives with his grandson, Alex. Alex's deceased mother Clara was his daughter."
+    },
+    {
+      "id": 7,
+      "name": "Gus",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/5/52/Gus.png",
+      "description": "Gus is a villager who lives and works at the Stardrop Saloon in Pelican Town. He owns the establishment."
+    },
+    {
+      "id": 8,
+      "name": "Jas",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/5/55/Jas.png",
+      "description": "Jas lives with her aunt Marnie and her godfather Shane on her ranch outside town. She's often seen alongside her friend Vincent, who is the only resident of town close to her age."
+    },
+    {
+      "id": 9,
+      "name": "Jodi",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/4/41/Jodi.png",
+      "description": "Jodi is married to Kent and together they have two sons, Sam and Vincent. Jodi will mention that Caroline is her best friend and that she is able to tell her anything."
+    },
+    {
+      "id": 10,
+      "name": "Kent",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/9/99/Kent.png",
+      "description": "Kent is married to Jodi and together they have two sons, Sam and Vincent."
+    },
+    {
+      "id": 11,
+      "name": "Krobus",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/7/71/Krobus.png",
+      "description": "Krobus is almost never seen outside interacting with other villagers. He dislikes dwarves."
+    },
+    {
+      "id": 12,
+      "name": "Leo",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Leo.png",
+      "description": "On Ginger Island, Leo is friends with the parrots whom he considers his family."
+    },
+    {
+      "id": 13,
+      "name": "Lewis",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/2/2b/Lewis.png",
+      "description": "Lewis is particularly good friends with Marnie, as shown in the Mayor's Shorts story quest."
+    },
+    {
+      "id": 14,
+      "name": "Linus",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/3/31/Linus.png",
+      "description": "Linus generally considers himself an outcast of the town who feels unwelcome and misunderstood, but wishes to be accepted."
+    },
+    {
+      "id": 15,
+      "name": "Marnie",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/5/52/Marnie.png",
+      "description": "Mayor Lewis and Marnie have a very close relationship."
+    },
+    {
+      "id": 16,
+      "name": "Pam",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/d/da/Pam.png",
+      "description": "Pam was the driver of the Pelican Town bus before it broke down."
+    },
+    {
+      "id": 17,
+      "name": "Pierre",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/7/7e/Pierre.png",
+      "description": "Pierre lives with his wife Caroline and their daughter Abigail behind his shop."
+    },
+    {
+      "id": 18,
+      "name": "Robin",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/1/1b/Robin.png",
+      "description": "Robin is the town carpenter and runs her own Carpenter's Shop, at her home."
+    },
+    {
+      "id": 19,
+      "name": "Sandy",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/4/4e/Sandy.png",
+      "description": "Sandy allows Mr. Qi to operate his casino behind her shop. It's clear they're not close, but she accepts his money and 'looks the other way' ."
+    },
+    {
+      "id": 20,
+      "name": "Vincent",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/f/f1/Vincent.png",
+      "description": "Vincent is a young boy, and can often be found with his best friend Jas."
+    },
+    {
+      "id": 21,
+      "name": "Willy",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/8/82/Willy.png",
+      "description": "“A true angler has respect for the water... don't you forget that.”"
+    },
+    {
+      "id": 22,
+      "name": "Wizard",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/c/c7/Wizard.png",
+      "description": "The Wizard, also known as M. Rasmodius lives in the Wizard's Tower to the far west of Cindersap Forest."
+    }
+  ],
+  "Non-GiftableNPCs": [
+    {
+      "id": 1,
+      "name": "Birdie",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/4/46/Birdie.png",
+      "description": "Birdie is an old woman who lives in a hut on Ginger Island, at the far West of the Island."
+    },
+    {
+      "id": 2,
+      "name": "Bouncer",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/f/f5/Bouncer.png",
+      "description": "The Bouncer guards the entrance to the Casino at the back of the Oasis, preventing access until the player completes the The Mysterious Qi quest."
+    },
+    {
+      "id": 3,
+      "name": "Fizz",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/a/a3/Fizz_00.png",
+      "description": "Fizz is an employee of the Joja Corporation working in the 'Joja Special Services Division'."
+    },
+    {
+      "id": 4,
+      "name": "Gil",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/6/64/Gil.png",
+      "description": "Gil rewards players with special rings, hats and other valuable items when they complete Monster Eradication Goals."
+    },
+    {
+      "id": 5,
+      "name": "Governor",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/4/46/Governor.png",
+      "description": "The Governor is the governor of the region that Pelican Town is a part of."
+    },
+    {
+      "id": 6,
+      "name": "Grandpa",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/8/88/Grandpa.png",
+      "description": "Grandpa is the first character players are introduced to. He writes a letter gifting the farmhouse, which prompts the player to move to Stardew Valley."
+    },
+    {
+      "id": 7,
+      "name": "Gunther",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/3/3d/Gunther.png",
+      "description": "Gunther operates the Archaeology Center in Pelican Town."
+    },
+    {
+      "id": 8,
+      "name": "Henchman",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/2/21/Henchman_Portrait_1.png",
+      "description": "The Henchman guards the Witch's Hut inside the Witch's Swamp."
+    },
+    {
+      "id": 9,
+      "name": "Marlon",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/3/37/Marlon.png",
+      "description": "Marlon lives in the Adventurer's Guild north of Pelican Town."
+    },
+    {
+      "id": 10,
+      "name": "Morris",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/9/90/Morris.png",
+      "description": "Morris works at JojaMart in Pelican Town. He's the manager and also acts as the customer service representative. "
+    },
+    {
+      "id": 11,
+      "name": "Mr. Qi",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/b/b4/Mr._Qi.png",
+      "description": "Mr. Qi operates the Casino which is located behind Sandy's store, the Oasis, in the Calico Desert."
+    },
+    {
+      "id": 12,
+      "name": "Professor Snail",
+      "image": "https://stardewvalleywiki.com/mediawiki/images/d/d4/Professor_Snail.png",
+      "description": "Professor Snail lives on Ginger Island and runs the Island Field Office."
+    }
+  ]
+}
